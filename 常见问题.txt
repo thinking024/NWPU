@@ -1,0 +1,189 @@
+ 1.介绍家乡
+My hometown is ChenZhou,where I grow up with my families.
+ChenZhou is famous for its Nonferrous Metals.(Metals other than iron, manganese, chromium and their alloys)
+Ten years ago,It was a remote small city.The economy is backward and the transportation is underdeveloped.
+Since the high-speed railway, the development speed has gradually increased.
+The tertiary industry is gradually rising and facilitate a happier life for people.
+I love my hometown.
+
+2.兴趣爱好*
+In my spare time,I wuold like to enjoy musics or get some exercise,
+recently my favourite music genre is pure music.
+For exercise I usually run in my school playground .some time I will play badminton with my roommates.
+I think music and exercise can release my pressures and unload my minds.
+3.优点*
+有耐心，做事认真负责，善于与他人沟通。	
+适应能力强，能够很快学习并应用新知识，新模型。	
+足够自律，能够很好调节学习与娱乐的时间。
+My strengths are as follows.
+Patient and responsible,and  good at communicating with others.  	
+Strong adaptability, able to learn and apply new knowledge quickly
+and I also Self discipline which can well regulate the time of study and entertainment.
+
+4.缺点*
+看我的脸就知道，我比较胖。平时坐着的时候比较多，缺乏一定的运动。自从开始考研，专注于学习专业知识的同时，
+也开始逐渐重视自己的健康，每周都会有一二次锻炼。每次锻炼通常都是在学校操场边听歌边跑步，偶尔和室友一起打羽毛球。
+As my face shows, I'm a little fat. Lack of exercise at ordinary times. But since the beginning of postgraduate entrance examination, 
+while focusing on learning professional knowledge,
+I also began to pay more attention to my health and exercise once or twice a week. 
+I usually run while listening to songs on the school playground, 
+and occasionally play badminton with my roommate.
+I will also exercise in the Postgraduate period.
+
+5.最敬佩的人
+我最敬佩的是我高中语文老师。他是一个非常有人文精神并且正直的人。
+在我看来，所有学科最终都是为了造就人类美好生活，计算机也不例外。
+我希望我能像他一样，无论是教书育人，还是科研，抑或是工作，都怀着为社会做贡献的精神。
+I admire my Chinese teacher most in high school. He is a man of great humanism and integrity.
+In my opinion, all disciplines are ultimately to create a better life for mankind, and computers are no exception.
+I hope I can be like him, whether teaching and educating people, scientific research or work, 
+with the spirit of contributing to the society.
+
+6.喜欢的书
+我最喜欢的书是《具体数学》。大一一次偶然的机会，我看到了推荐它的文章，然后我在网上买下了它。
+书中讲解了许多计算机科学中用到的数学知识和技巧，教你如何把一个实际问题一步步演化为数学模型，然后通过计算机解决它。
+它非常具有学术性，所以很难看懂。我大学期间一共看了三次，前两次都是看到一半。第三次才勉强能够看懂部分知识。
+以后我还会经常研读这本书，希望我能了解它的所有知识。
+My favorite book is concrete mathematics. By chance, I saw the article recommending it, and then I bought it online.
+The book explains many mathematical knowledge and skills used in computer science, 
+and teaches you how to evolve a practical problem into a mathematical model step by step, and then solve it by computer.
+It is very academic and difficult to understand. 
+I saw half of the first two times and was barely able to understand part of the knowledge until the third time.
+In the future, I will often study this book. I hope I can understand all its knowledge.
+
+7.做过的重要选择
+从小到大，我做过很多选择，但是有的选择的好处还没有显现。我只能说目前我受到了益处的选择。
+它应该是我初中时转到了一个新学校。遇到了优秀的老师。他们使我对数学和物理产生了极大的兴趣。
+虽然无论是高考还是考研初试，我的数学发挥都失常了，但我依然热爱数学。
+我相信这份热爱会贯穿我的一生。
+Until now, I have made many choices, but the benefits of some choices have not yet appeared. 
+I can only say the choice that I have received benefits.
+It should be that I transferred to a new school in junior high school. Met two excellent teachers.
+They made me interested in mathematics and physics.
+Although my math performance has been abnormal in both the college entrance examination 
+and the postgraduate entrance examination, I still love math.
+I believe this love will penetrate my life.
+*追问：选择学校主要靠父母选择？
+是的，但是如果自己不想去新环境的话，父母强迫也不会有好结果。
+Yes, but if you don't want to go to the new environment, it will not have a good result if they force you to go.
+
+8.毕业论文（注重与老师讨论的内容）*
+
+9.本科院校
+我在湖南科技大学读的本科。坐落于湖南湘潭，毛泽东的故乡。在过去的三年多时间里
+很多事情都给我留下了深刻印象。美丽的校园、优秀负责的老师、校外小吃街的美食以及食堂阿姨们的友善。
+虽然它没那么有名，但是它带给我很多美好回忆，是它造就了现在的我。
+I studied as an undergraduate in Hunan University of science and technology. 
+Located in Xiangtan,the hometown of Mao Zedong. 
+In the past three years, many things have left a deep impression on me. 
+The beautiful campus, excellent and responsible teachers, 
+the delicious food in the snack street outside the school and the friendliness of the canteen aunts.
+Although it is not so famous, it brings me a lot of good memories. It makes me who I am now.
+
+10.最喜欢的课程
+我最喜欢的课程是数据结构。一方面老师教的好、带动了我的兴趣。一方面是我喜欢思考问题的解决方法。
+所以我参加了两年ACM/ICPC集训队，锻炼自己解决问题的能力。取得了一些成果。
+直到现在，我有空依然会参与一些oj的比赛，活跃自己的思维。
+My favorite course is data structure. Mainly because the teacher taught well and promoted my interest. 
+I also like to think about ways to solve problems.
+So I participated in ACM / ICPC training team for two years to train my ability to solve problems. Some results have been achieved.
+Until now, I will still participate in some OJ competitions and activate my thinking.
+11.如何处理压力
+面对压力的时候，我会先停一停当前的事。冷静地想一想，是什么给了我压力，我是否能承受？
+比如最近这一个月我都有挺大压力，比较焦虑。因为我的初试成绩不太理想，对自己复试能否发挥好也保持怀疑。
+有时甚至难以入睡。后来仔细分析自身状况，明确自己的优缺点。没有面试经历的我在这个月找了几家企业面试岗位。
+知道自己当前需要什么之后，压力也就化为了动力。
+In the face of pressure, I will stop what I am doing first. Think about it calmly. What gives me pressure? Can I bear it?
+For example, this month I have a lot of pressure and anxiety. 
+Because my initial test results are not ideal, I doubt whether I can play well in the second test.
+Sometimes it's even hard to sleep. Later, I carefully analyzed my own situation and made clear my advantages and disadvantages.
+ Without interview experience, I found several enterprises to interview this month to improve my competitiveness.
+When you know what you need right now, stress turns into motivation.
+
+12.印象深刻的比赛 活动经历*
+大学期间，我参加了两年的ACM集训队，来提升我的思维能力和竞争力。在2019年，我参加了CCPC。
+这是我第一次参加程序设计竞赛。虽然没有取得良好的成绩，但是它开启了我对竞赛热爱。
+直到现在，我有时也会参加网络上的小比赛。
+During college, I participated in the ACM training team for two years to improve my thinking ability and competitiveness.
+In 2019 ,I participated in the CCPC-National Invitational Contest with two others.
+This is my first time to participate in the programming competition. 
+Although I didn't get good results, it opened my love for competition.
+Until now, I sometimes participate in small competitions on the Internet.
+
+13.为什么选择本校本专业*
+选择软件工程是因为我本科也是软件工程专业，我想继续深入这个领域。对软件工程有更加系统的了解。
+对于为什么选择深圳大学。首先是因为我想在深圳学习和生活，与这个年轻城市中来自世界各地的人打交道。
+其次是，深圳大学有充足的资金，不会因为没有科研设备或者低质量的生活环境而影响学习和科研。
+I chose software engineering because I am also a software engineering major at the undergraduate stage. 
+I want to continue to go deep into this field. Have a more systematic understanding of software engineering.
+Why did you choose Shenzhen University. 
+First of all, I want to study and live in Shenzhen and deal with people from all over the world in this young city.
+Secondly, Shenzhen University has sufficient funds and will not affect learning and scientific research 
+because of lack of scientific research equipment or low-quality living environment.
+
+14.研究生期间规划*
+If I am luckily admitted,i will try my best to finish all the courses as planned.
+At the same time I will start reading papers and doing some academic research with the seniors and my mentor.
+And then, finish my graduation thesis ,take part in internships,and prepare for my future employment.
+If chance given, I will fight for a PhD.
+I believe my post-graduation life would be enriched and meaningful.
+
+15.研究生学习可能遇到的挑战*
+挑战可能会有很多，比如关系处理，与老师、与同学、与室友。但我认为最难的是科研。首先要理解专业知识，然后还需要提出创新。
+这期间会出现很多问题，但我不会感到恐惧。面对挑战，我会积极与我的导师沟通交流，询问老师的建议。同时，我还会积极与学长学姐沟通，学习经验。
+专注在自己感兴趣的问题上，并不会感到害怕和无聊。
+There may be many challenges。
+But I think the hardest thing is scientific research. In order to solve it, 
+I need to understand professional knowledge, and then I need to put forward innovation.
+There will be many problems during this period, but I won't be afraid. In the face of challenges, 
+I will actively communicate with my mentor and ask for suggestions. 
+At the same time, I will also communicate with senior studentsto learn experience.
+Focusing on what i'm interested in ,i don't feel afraid and bored.
+
+16.学费如何解决
+如果我有幸被录取，我会非常珍惜这个机会，并且在研究生期间努力学习，争取获得奖学金
+另外，我的父母非常支持我读研，他们在物质上和精神上都给予我很大的帮助
+也会帮我支付部分学费。同时，如果有合适的兼职，我会考虑去做，
+因为者能够锻炼我与人沟通的能力和社会实践的能力。
+If i am lucky enough to be admitted,I will cherish this opportunity and study hard during
+the postgraduate period to obtain the scholarship.What's more, 
+my parents are very supportive of my study both materially and spiritually,
+and they will also help me pay part of my tuition.
+At the same time if there is a suitable part-time job in my spare time,I will take it into consideration
+because it will benefit me a lot for my interpersonal communication and social practice skills.
+
+17.读研和本科的区别*
+我认为 本科主要是接触计算机领域中基础性的科目。系统了解计算机，同时，也会入门一些前沿性的学科。
+例如我本科就学习过大数据、人工智能、数据挖掘等更加深奥的科目。
+而研究生阶段需要更加全面、更加系统的了解前沿学科。同时对自学能力和科研能力的要求更高。
+读研期间，学习知识的同时，也要提高自身综合素质，努力成为更加优秀的人。
+I think the undergraduate course is mainly to contact the elementary subjects in the computer field and systematically understand the computer. 
+At the same time, it will also introduce some more profound subjects.such as big data, artificial intelligence and data mining.
+The graduate stage needs a more comprehensive and systematic understanding of these subjects. 
+At the same time, the requirements for self-study ability and scientific research ability are higher.
+During postgraduate study, while learning knowledge, I should also improve my comprehensive quality and strive to become a better person.
+
+
+18.父母如何看待考研
+my parents are very supportive of my study both materially and spiritually,
+when they were young, they did not have the idea of further study. 
+Utill they enter the society.So they hope I can learn ample knowlegde.
+I am grateful for their love and support,and I hope I can pass the exam and live up to their expectations.
+
+19.没考上的打算*
+首先，我坚信我能考上。但是如果我真的没考上，我并不会气馁。我会先找一份工作，不靠父母养活自己。在工作的同时，我不会忘记学习，
+我会边工作边考研。我认为读研是对自身综合素质的提高，我不会放弃。
+First of all, I firmly believe that I can pass the exam. But if I really don't pass the exam, I won't be depressed. 
+I will find a job first and not rely on my parents to support myself. At the same time, I will not forget to study,
+I will take the postgraduate entrance examination while working. 
+I think it is a improvement of my comprehensive quality. 
+I won't give up.
+
+20.是否考虑读博*
+我考虑过。但是我的家人和我对博士都没有一个完整的概念。在大学期间，我并不清楚博士对应的科研水平、英语能力、综合素质的要求。
+所以，我想在我研究生阶段逐渐了解科研的日常，并提高自身综合素质。如果日后达到了博士的要求，我会考虑读博。
+Well，I thought about it. But both  my family and I haven't a complete concept of doctor(Ph.D). 
+When I was in college, I didn't know the requirements of doctor's scientific research level, English ability and comprehensive quality.
+Therefore, I want to gradually understand the daily life of scientific research 
+and improve my comprehensive quality during my Postgraduate period.
+If I meet the requirements of a doctor in the future, I will consider about it.
