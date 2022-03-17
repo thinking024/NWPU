@@ -8,7 +8,7 @@ During my college years, I have been studying hard, getting excellent scores in 
 
 I love computer science and programing, and have a strong hands-on ability. I always maintain great curiosity and enthusiasm for all kinds of new knowlege. Besides, I often learn extra expertise from online education websites like MOOC and Coursera. Github is also frequently used during my study.
 
-I am open-minded, quick in thought. In my spare time, I have broad interests like many other youngers. I like reading books, especially those about  Chinese traditional poems and history.
+Since childhood, I have always been a person who likes to explore the unknown and pursue true knowledge. I always like to ask why, ask myself and ask others. In the process of raising questions, I can improve my understanding of the problems and often get a deeper understanding than others.I am open-minded, quick in thought. In my spare time, I have broad interests like many other youngers. I like reading books, especially those about  Chinese traditional poems and history.
 
 **To Do**对于未来学习和研究的展望和看法
 
@@ -28,7 +28,22 @@ I grew up in Hengyang with my family and studied here until university. I have l
 
 # 优缺点
 
+My strengths are as follows.
 
+1. Patient and responsible, and  good at communicating with others. 
+
+2. Strong adaptability and hands-on ability, able to learn and apply new knowledge quickly.
+3. I always maintain great curiosity and enthusiasm for all kinds of new knowlege.
+4. Besides, I also have strong self-discipline which can help me regulate the time of study and entertainment well.
+
+
+
+My weaknesses are as follows.
+
+1. Lack of healthy living habits. Sometimes I may stay up late. I seldom eat fruit and vegetables, and I don’t exercise often.
+
+2. I am usually careless, and sometimes may overlook some details, espacially in some exams.
+3. I am a bit of perfectionist and have obsessive-compulsive disorder
 
 
 
@@ -46,7 +61,7 @@ I grew up in Hengyang with my family and studied here until university. I have l
 
 There are several reasons. 
 
-I have been deeply impressed by the academic atmosphere  when I came here last summer. In my opinion, as one of the most famous university in China, NWPU provide people with  enough room to get further enrichment . This is the first reason. 
+I have been deeply impressed by the academic atmosphere in NWPU. In my opinion, as one of the most famous university in China, it provides people with  enough room to get further enrichment . This is the first reason. 
 
 The second one is I am long for doing research in  software engineering throughout my life. Its a pleasure to be with my  favorite major for lifetime. I suppose this is the most  important factor in my decision. 
 
