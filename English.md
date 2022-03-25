@@ -38,22 +38,36 @@ My strengths are as follows.
 
 
 
-My weaknesses are as follows.
+My shortcomings are as follows.
 
 1. Lack of healthy living habits. Sometimes I may stay up late. I seldom eat fruit and vegetables, and I don’t exercise often.
 
-2. I am usually careless, and sometimes may overlook some details, espacially in some exams.
+2. I am a little careless, and sometimes may overlook some details, espacially in some exams.
 3. I am a bit of perfectionist and have obsessive-compulsive disorder
 
 
 
 # 个人爱好
 
+In my spare time, I have broad interests like many other youngers. 
+
+Although I am an engineering student, reading is an essential part of my life. I really like reading books, especially those about Chinese traditional poems and history. Novels describing social life are the most I have ever read.
+
+In addtion, I do some exercise sometimes. Badminton is my favorite sport and I have been playing badminton since I was in middle school. When I'm short on time, I'll go to the playground for a short run.
+
 
 
 # 本科学校
 
+I studied as an undergraduate in Hunan University of Science and Technology which is located in Xiangtan, the hometown of Chairman Mao. 
 
+In the past three years, many things have left a deep impression on me. 
+
+The beautiful campus, excellent and responsible teachers, the delicious food in the snack street outside the school.
+
+After the new principal took office, reforms were made in many aspects, and the school is getting better and better.
+
+Although it is not well known, I still appreciate it because it offers me a chance to  develop my ability and brings me a lot of good memories. It makes me who I am now.
 
 
 
@@ -61,15 +75,21 @@ My weaknesses are as follows.
 
 There are several reasons. 
 
-I have been deeply impressed by the academic atmosphere in NWPU. In my opinion, as one of the most famous university in China, it provides people with  enough room to get further enrichment . This is the first reason. 
+I have been deeply impressed by the academic atmosphere in NWPU. In my opinion, as one of the most famous universities in China, it provides people with enough room to get further enrichment. This is the first reason. 
 
 The second one is I am long for doing research in  software engineering throughout my life. Its a pleasure to be with my  favorite major for lifetime. I suppose this is the most  important factor in my decision. 
 
-Thirdly, I learnt a lot during the past  four years in my undergraduate school. However, I think further study is still urgent  for me to realize self-value. Life is precious. It is  necessary to seize any chance for self-development,  especially in this competitive modern world. In a word, I am looking forward to making a solid foundation for future profession after three-year study here.
+Thirdly, I learnt a lot during the past  four years in my undergraduate school. However, I think further study is still urgent  for me to realize self-value. Life is precious. It is  necessary to seize any chance for self-development,  especially in this competitive modern world. In a word, I am looking forward to making a solid foundation for future profession after three-year study in NWPU.
 
 
 
 # 为什么选择NWPU
+
+Firstly, I have been deeply impressed by the strong and pragmatic academic atmosphere in NWPU. In my opinion, as one of the most famous universities in China, it provides people with enough room to get further enrichment.
+
+Besides,  computer science and software engineering disciplines of NWPU are in a leading position in China, and there are many excellent teachers with strong academic ability and responsibility.
+
+As a student who aims to make achivements in academia, I am looking forward to a broad and splendid stage. NWPU is my best choice.
 
 
 
