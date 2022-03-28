@@ -58,31 +58,33 @@ In addtion, I do some exercise sometimes. Badminton is my favorite sport and I h
 
 # 介绍家庭
 
-In my family, there are three members, my farther, my  mother, and I. 
+In my family, there are three members, my farther, my mother, and I.
 
 My father is a worker, and he is always fully occupied, so most of the housework is done by my mother. 
 
-Of course, when I am at home, I would help her. I love my parents and they love me,  too. 
+Of course, when I am at home, I will help her. I love my parents and they love me,  too. 
 
-When I make a success, they are more excited than me, and support me to do better. 
+When I make a success, they are more excited than me, and support me to do better next time. 
 
 During my preparation for graduate examination, the support from my family is always my momentum.  
 
-Parents’ love is unselfish, I am deeply affected, so I will  do all what I can to repay them.
+Parents’ love is unselfish, I am deeply affected, so I will do all what I can to repay them.
 
 
 
 # 本科学校
 
-I studied as an undergraduate in Hunan University of Science and Technology which is located in Xiangtan, the hometown of Chairman Mao. 
+I studied as a senior student in Hunan University of Science and Technology which is located in Xiangtan, the hometown of Chairman Mao. And my major is software engineering.
 
-In the past three years, many things have left a deep impression on me. 
+I spent three wonderful years here, from freshman to senior year, everything is still vivid in my mind.
 
-The beautiful campus, excellent and responsible teachers, the delicious food in the snack street outside the school.
+During the past years, many things have left deep impression on me. 
 
-After the new principal took office, reforms were made in many aspects, and the school is getting better and better.
+The beautiful campus, excellent and responsible teachers, the delicious food in the school.
 
-Although it is not well known, I still appreciate it because it offers me a chance to  develop my ability and brings me a lot of good memories. It makes me who I am now.
+After the new principal took office, reforms were made in many aspects. Teachers and students can enjoy many convenient services now. The school is becoming better and better.
+
+Looking back on my college years, I have no regrets. Although my school is not well known, I’m still very grateful to it because it offers me a chance to develop my ability and brings me a lot of good memories. It makes me who I am now.
 
 
 
@@ -90,11 +92,13 @@ Although it is not well known, I still appreciate it because it offers me a chan
 
 There are several reasons. 
 
-I have been deeply impressed by the academic atmosphere in NWPU. In my opinion, as one of the most famous universities in China, it provides people with enough room to get further enrichment. This is the first reason. 
+The first one is I am long for doing research in software engineering throughout my life. It’s a pleasure to be with my  favorite major for lifetime. I suppose this is the most important factor in my decision. 
 
-The second one is I am long for doing research in  software engineering throughout my life. Its a pleasure to be with my  favorite major for lifetime. I suppose this is the most  important factor in my decision. 
+In addition, I learnt a lot during the past  four years in my undergraduate school. However, my ability level still needs to be improved, and I also need to broaden my horizon. There are still many unknown areas with great research value in the software engineering field that are worth exploring. 
 
-Thirdly, I learnt a lot during the past  four years in my undergraduate school. However, I think further study is still urgent  for me to realize self-value. Life is precious. It is  necessary to seize any chance for self-development,  especially in this competitive modern world. In a word, I am looking forward to making a solid foundation for future profession after three-year study in NWPU.
+Life is precious. I think further study is still urgent  for me to realize self-value.  It is  necessary to seize any chance for self-development,  especially in this competitive modern world. 
+
+In a word, I am looking forward to making a solid foundation for future profession after three-year study in NWPU.
 
 
 
@@ -148,7 +152,7 @@ Focusing on what i'm interested in, I don't feel afraid and bored.
 
 # 是否读博
 
-Well, I thought about it. But both  my family and I haven't a complete concept of doctor(Ph.D). 
+Well, I thought about it. But both my parents and I don’t have a complete concept of doctor(Ph.D). 
 When I was in college, I didn't know the requirements of doctor's scientific research level, English ability and comprehensive quality.
 
 Therefore, I want to gradually understand the daily life of scientific research and improve my comprehensive quality during my postgraduate period.
