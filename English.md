@@ -4,7 +4,7 @@ Good morning, dear professors. It’s my great honor here for this interview. No
 
 My name is Zhu Yiyuan, 21 years old and I come from Hengyang, Hunan Province. I am a senior student in Hunan University of Science and Techonology and my major is Sorfware Engineering. 
 
-During my college years, I have been studying hard and getting excellent scores in most subjects. So I win school scholarships each year. In addition to basic computer courses like Data Structure, I also learned some advanced subjects, such as Data Mining and Big Data, which helps me have a better understanding on leading research. Besides, I often learn extra expertise from online education websites like MOOC and Coursera.
+During my college years, I have been studying hard and getting excellent scores in most subjects. So I win school scholarships each year. In addition to basic computer courses like Data Structure, I also learned some advanced subjects, such as Data Mining and Big Data, which can help me have a better understanding on leading research. Besides, I often learn extra expertise from online education websites like MOOC and Coursera.
 
 I love computer science and programing, and have a strong hands-on ability. I always maintain great curiosity and enthusiasm for all kinds of new knowlege. I am open-minded and quick in thought. Since childhood, I have always been a person who likes to explore the unknown. I always like to ask why. In the process of raising questions, I often get a deeper understanding than others.
 
@@ -12,7 +12,7 @@ In my spare time, I have broad interests like many other youngers. I love readin
 
 NWPU has always been my dream school, and I have worked hard for it for a long time. Thus I can have this opportunity to stand in front of you and take this exam today. I would appreciate it if you could give me a chance to study in this school.
 
-That’s all about me, Thank you.
+That’s all, thank you.
 
 
 
@@ -92,11 +92,11 @@ Looking back on my college years, I have no regrets. Although my school is not w
 
 There are several reasons. 
 
-The first one is I am long for doing research in software engineering throughout my life. It’s a pleasure to be with my  favorite major for lifetime. I suppose this is the most important factor in my decision. 
+The first one is that I am long for doing research in software engineering throughout my life. It’s a pleasure to be with my favorite major for lifetime. I suppose this is the most important factor in my decision. 
 
-In addition, I learnt a lot during the past  four years in my undergraduate school. However, my ability level still needs to be improved, and I also need to broaden my horizon. There are still many unknown areas with great research value in the software engineering field that are worth exploring. 
+In addition, I learnt a lot during the past four years in my undergraduate school. However, my ability still needs to be improved, and I also want to broaden my horizon. There are still many unknown areas with great research value in software engineering that are worth exploring.
 
-Life is precious. I think further study is still urgent  for me to realize self-value.  It is  necessary to seize any chance for self-development,  especially in this competitive modern world. 
+Life is precious. I think further study is still urgent  for me to realize self-value.  It is necessary to seize any chance for self-development,  especially in this competitive modern world.
 
 In a word, I am looking forward to making a solid foundation for future profession after three-year study in NWPU.
 
@@ -104,57 +104,54 @@ In a word, I am looking forward to making a solid foundation for future professi
 
 # 为什么选择NWPU
 
-Firstly, I have been deeply impressed by the strong and pragmatic academic atmosphere in NWPU. In my opinion, as one of the most famous universities in China, it provides people with enough room to get further enrichment.
+Firstly, I’m deeply impressed by the strong academic atmosphere in NWPU. There are many excellent teachers with strong academic ability and responsibility. The Software Engineering discipline at this school is in a leading position in China, and it makes a large number of outstanding academic achievements every year. I suppose this is the most important factor in my decision. 
 
-Besides,  computer science and software engineering disciplines of NWPU are in a leading position in China, and there are many excellent teachers with strong academic ability and responsibility.
-
-As a student who aims to make achivements in academia, I am looking forward to a broad and splendid stage. NWPU is my best choice.
+Besides, in my opinion, as one of the most famous universities in China, it provides people with enough room to get further enrichment. As a student who aims to make achivements in software engineering, I am looking forward to a broad and splendid stage. NWPU is my best choice.
 
 
 
 # 学过哪些计算机课程 What courses did you take?
 
-As a software engineering student, I took many common computer courses like data structure, operating system and database. In addition, I also learned some advanced subjects, such as Data Mining and Big Data, which helps me have a better understanding on leading research.
+As a software engineering student, I took many basic computer courses like data structure, operating system and database. In addition, I also learned some advanced subjects, such as Data Mining and Big Data, which can help me have a better understanding on leading research.
 
-Amoung these courses, my favorite is Data Structure. On the one hand, the teacher is very responsible and taught me well. So my interest was arisoused fully. Another important reason is that I learned a lot in this course, including many basic algorithms which are often used in computer science.
+Amoung these courses, my favorite is Data Structure. The first reason is that the teacher is very responsible and taught me well. So my interest was arisoused fully. Another important reason is that I learned a lot in this course, including many basic algorithms which are often used in computer science.
 
 
 
 # 研究生期间的计划
 
-There must be many things  to learn if I were enrolled into my ideal research field.
+There must be many things to do if I were enrolled into my ideal research field.
 
 If I am luckily admitted, I will try my best to finish all the courses as planned.
 
 At the same time I will start reading papers and doing some academic research with the seniors and my supervisor.
 
-And then, I’ll finish my graduation thesis, take part in internships,and prepare for my future employment.
+Then, I’ll finish my graduation thesis, take part in internships, and prepare for my future employment.
 
-I am dreaming of the  participation of some relevant projects of my major, for this reason, I will get more experience in practice.
+I am dreaming of the participation of some relevant projects of my major, for this reason, I will get more experience in practice.
 
-I believe my post-graduation life would be enriched and meaningful in NWPU.
+In a word, I’m firmly convinced that my postgraduate life will be enriched and meaningful in NWPU.
 
 
 
 # 读研期间面临的挑战
 
-There may be many challenges.
-But I think the hardest thing is scientific research. 
+There may be many challenges in my postgraduate life. For example, how to adapt to postgraduate life quickly, how to get along well with my supervisor and how to deal with peer pressure.
+But I think the hardest is scientific research.
 
-In order to solve it, I need to understand professional knowledge, and then I need to put forward innovation.
-There will be many problems during this period, but I won't be afraid. 
+In order to solve this problem, I need to have a good understanding on professional knowledge, and then I need to put forward innovation. There will be many problems during this period, but I won't be afraid.
 
-In face of challenges, I will actively communicate with my supervisor and ask for suggestions. 
-At the same time, I will also communicate with senior students to learn experience.
-Focusing on what i'm interested in, I don't feel afraid and bored.
+In face of challenges, I will actively communicate with my supervisor and ask for suggestions. At the same time, I will also communicate with senior students to get some experience.
+
+Focusing on what I'm interested in, I won’t feel afraid or bored.
 
 
 
 # 是否读博
 
-Well, I thought about it. But both my parents and I don’t have a complete concept of doctor(Ph.D). 
-When I was in college, I didn't know the requirements of doctor's scientific research level, English ability and comprehensive quality.
+Well, I have already thought about it. But both my parents and I don’t have a complete concept of a doctor degree. Frankly speaking, I haven’t make any preparation for it.
+After all, I’m still a senior student and I don’t know the requirements for a doctor degree, like scientific research level, English ability or comprehensive quality. Pursuing a PhD is serious , so I have to be cautious and think twice. 
 
-Therefore, I want to gradually understand the daily life of scientific research and improve my comprehensive quality during my postgraduate period.
+Therefore, I want to gradually adapt to the daily life of scientific research and improve my academic ability during my postgraduate period.
 
-If I meet the requirements of a doctor in the future, I will consider about it.
+If I meet the requirements for a doctor degree in the future, I will take it into consideration.
